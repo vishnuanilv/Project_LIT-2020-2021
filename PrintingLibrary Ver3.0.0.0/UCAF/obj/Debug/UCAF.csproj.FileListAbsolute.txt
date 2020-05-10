@@ -1,0 +1,8 @@
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\UCAF\bin\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.dll
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\UCAF\bin\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.pdb
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\UCAF\obj\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.dll
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\UCAF\obj\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.pdb
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\UCAF\obj\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.dll
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\UCAF\obj\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.pdb
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\UCAF\bin\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.dll
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\UCAF\bin\Debug\Infologics.Medilogics.PrintingLibrary.UCAF.pdb

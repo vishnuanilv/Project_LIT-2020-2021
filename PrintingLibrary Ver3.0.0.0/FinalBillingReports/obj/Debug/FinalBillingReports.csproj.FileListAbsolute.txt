@@ -1,0 +1,8 @@
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\FinalBillingReports\bin\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.dll
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\FinalBillingReports\bin\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.pdb
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\FinalBillingReports\obj\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.dll
+D:\Printing Library_DAEprime\DAE\PrintingLibrary Ver3.0.0.0\FinalBillingReports\obj\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.pdb
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\FinalBillingReports\obj\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.dll
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\FinalBillingReports\obj\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.pdb
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\FinalBillingReports\bin\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.dll
+D:\AHALIA\PrintingLibrary Ver3.0.0.0\PrintingLibrary Ver3.0.0.0\FinalBillingReports\bin\Debug\Infologics.Medilogics.PrintingLibrary.FinalBillingReports.pdb
